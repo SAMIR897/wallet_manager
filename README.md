@@ -1,6 +1,6 @@
 # 🔐 Wallet Manager
 
-A Rust CLI tool for generating HD (Hierarchical Deterministic) Ethereum wallets with AES-256-GCM encrypted mnemonic storage.
+A secure, CLI tool for generating and organizing hierarchical deterministic (HD) wallets using BIP-39 and BIP-44 standards. Written in Rust for maximum security, it supports seed phrase generation, key derivation, and transaction signing. It prioritizes user privacy, ensuring all cryptographic operations occur locally and securely away from online threats.
 
 ## Features
 
